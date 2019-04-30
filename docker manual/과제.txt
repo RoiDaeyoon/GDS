@@ -1,0 +1,9 @@
+Git 저장소 관리
+
+Kitematic 오류해결이 win edu 에서도 되는지?
+
+Kitematic 으로 Fenics 할 수 있나?
+
+CLI 코드 정리
+
+fig01 에서 수정하기
